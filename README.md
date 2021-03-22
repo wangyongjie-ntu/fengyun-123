@@ -1,6 +1,8 @@
 # 风云-123
 风云1-3 漫画; Fung Wan Comics;
 
+![Image](https://github.com/wangyongjie-ntu/fengyun-123/blob/main/Wind_Cloud.jpg)
+
 # Getting Start
 
 文件夹内包括风云3部曲和剑圣/步惊云外传。由于原始文件过大，这里仅仅放了网盘的下载链接。有需要的同学们，请自行到网盘进行下载。国外的同学推荐Google Drive，国内的同学请到百度云下载。欢迎各位同学把数据备份到各个网盘上，然后把分享链接加入到上述的5个文件夹下。
